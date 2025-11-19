@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Tymofii-Bernatskyi/Tymofii-Bernatskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tymofii Bernatskyi. I am a student of curse science technology< at Holy Trinity.
+Technical Skills
 
-Here are some ideas to get you started:
+💻 Programming Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pyton
+- Java
+- HTML/CSS/JavaScript
+- 
+⚙️ Operating Systems:
+
+- Windows
+- ChromeOS
+- 
+🛠️ Tools:
+
+- GitHub
+- Google Colab
+
+Here is my projects:
+
+This is a website.
+In this project i did a website on the topic Healthy Living Guide.
+[Healthy Living Guide Website]([https://urban-fortnight-q7g5vr9xj5rg299g7.github.dev/](https://github.com/Tymofii-Bernatskyi/ISD20))
+
+This is Pizza Order Application
+In this project i did a website on topic Pizza Order Application.
+[Pizza Order Application](https://colab.research.google.com/drive/1G2uAwJD5q7xmHHltMBgcuSd74sj9sU-C#scrollTo=ZAAwdlOmDqPR)
+
+This is Python Application
+In this applicatio i did 3 tpoic: Personality Quiz, Trivia Game, and Score Summary.
+[Python Application](https://colab.research.google.com/drive/1sTRxaGHxIOGoMLLNKTa0ZXYfTnDt8NWg)
