@@ -30,5 +30,10 @@ In this project i did a website on topic Pizza Order Application.
 [Pizza Order Application](https://colab.research.google.com/drive/1G2uAwJD5q7xmHHltMBgcuSd74sj9sU-C#scrollTo=ZAAwdlOmDqPR)
 
 This is Python Application
-In this applicatio i did 3 tpoic: Personality Quiz, Trivia Game, and Score Summary.
+In this application i did 3 tpoic: Personality Quiz, Trivia Game, and Score Summary.
 [Python Application](https://colab.research.google.com/drive/1sTRxaGHxIOGoMLLNKTa0ZXYfTnDt8NWg)
+
+This is Python Application
+Here i did a task about Looping Pattern
+[Looping Pattern](https://colab.research.google.com/drive/1xTLy62f_x3isBRNJkaq6ThqXI5TjnH_B)
+
